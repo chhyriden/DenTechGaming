@@ -2,8 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+# [0.2.2] - 2022-10-13
+
+- Added: DenTech Gaming as new project
+- Added: Chhy Rideth as Head - Game Developer
+- Added: Special Support
+
 ## [0.2.1] - 2022-06-13
 
+- Adeed: Bluestack to the repo
+- Added: DenTech Gaming
 - Added: Account recovery
 - Added: Unlockables
 - Added: 9 unlockable items
